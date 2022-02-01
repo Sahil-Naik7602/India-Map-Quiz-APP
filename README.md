@@ -1,0 +1,3 @@
+# INDIA Map Quiz APP
+
+Its a program which I created for primary student kids using panda module in python, where they have to enter the name of the states of India and it will automatically pop up the name of the state on the state. if one gusses all the name of the states he/she wins else the states which that individual is unable to guess will be stored in another dataframe so that they can later.  
